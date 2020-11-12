@@ -1,9 +1,5 @@
-def first_number
-  num = 6
-end
+first_number = 6
+second_number = 14
 
-def second_number
-  num = 14
-end
 
 
