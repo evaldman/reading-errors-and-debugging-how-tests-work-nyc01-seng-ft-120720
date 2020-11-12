@@ -7,3 +7,4 @@ def calc_test
   product = 6 * 14
   quotient = 6 / 14
 end
+calc_test
